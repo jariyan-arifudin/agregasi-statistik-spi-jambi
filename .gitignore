@@ -1,0 +1,20 @@
+# Python & Lingkungan Komputasi
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data Spasial & Output (Sangat Penting)
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+
+# Direktori Output Skrip
+Statistik_SPI_Output_2010_2020/
+Klasifikasi_SPI_2010_2020/
+
+# File Sistem
+.DS_Store
+Thumbs.db
